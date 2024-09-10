@@ -32,7 +32,7 @@
   
 <!--    ![Snake animation](https://github.com/leonam1212/leonam1212/blob/output/github-contribution-grid-snake.svg) -->
   
- ![Contribution](https://activity-graph.herokuapp.com/graph?username=leonam1212&theme=gotham&hide_border=true&area=true)
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=leonam1212&theme=gotham&hide_border=true&area=true) -->
 </div> 
  
   
